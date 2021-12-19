@@ -1,0 +1,33 @@
+.navWrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: #242a53;
+  color: white;
+  padding: 10px;
+  font-family: "Dosis", sans-serif;
+}
+
+.app-title {
+  padding-left: 30px;
+  font-size: 30px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.app-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.pages {
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.pages a {
+  text-decoration: none;
+  color: inherit;
+  margin-right: 20px;
+  cursor: pointer;
+}

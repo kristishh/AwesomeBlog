@@ -1,0 +1,18 @@
+.submitButtonWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  font-family: "Dosis", sans-serif;
+  background-color: #242a53;
+  cursor: pointer;
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  margin-top: 20px;
+  padding: 10px 20px 10px 20px;
+  letter-spacing: 1px;
+  font-size: 22px;
+  border: none;
+}

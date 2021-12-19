@@ -1,0 +1,12 @@
+.fav input {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+.fav {
+  font-size: 17px;
+}
+
+.fav label {
+  cursor: pointer;
+}

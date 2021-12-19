@@ -1,0 +1,23 @@
+.descWrapper,
+label,
+textarea {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+textarea {
+  border: none;
+  width: 400px;
+  height: 100px;
+  resize: none;
+  margin-bottom: 5px;
+}
+textarea::-webkit-scrollbar {
+  width: 20px;
+}
+textarea::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}

@@ -1,0 +1,18 @@
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+h4 {
+  font-size: large;
+}
+.date {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 300;
+  padding-bottom: 0px;
+}
+.date p {
+  margin-left: 5px;
+}

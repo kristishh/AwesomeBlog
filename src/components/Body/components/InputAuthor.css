@@ -1,0 +1,23 @@
+.author,
+input,
+label {
+  margin: 5px;
+}
+.authorWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+label,
+input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+label {
+  font-weight: 500;
+}
+input {
+  border: none;
+  font-size: 15px;
+}

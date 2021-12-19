@@ -1,0 +1,11 @@
+.titleWrapper,
+input,
+label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.titleWrapper input {
+  width: 300px;
+  margin: 3px 0px 3px 0px;
+}

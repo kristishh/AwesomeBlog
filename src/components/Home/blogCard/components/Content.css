@@ -1,0 +1,22 @@
+.content {
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+.contentWrapper {
+  font-size: large;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.text {
+  font-weight: 300;
+}
+.title {
+  font-weight: 600;
+}
