@@ -1,3 +1,12 @@
+### Project Assignments
+Create blog page with React
+1. Use initially created local json file with blog information (author, date, title, text, isFavorite)
+2. Data is created, read, updated and deleted from local storage.
+3. Added blogs are displayed in "Home" page and favorite ones are always displayed first.
+4. After a blog is added, local storage is updated.
+5. Blogs can be added/removed from favorites or deleted.
+ 
+ [Live](https://awesome-blog.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
